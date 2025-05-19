@@ -1,9 +1,0 @@
-{
-  "data_path": "data/boroondara_traffic.csv",
-  "model_name": "lstm",
-  "origin": 2000,
-  "destination": 3002,
-  "top_k": 3,
-  "run_gui": false,
-  "site_id": 2000
-}
